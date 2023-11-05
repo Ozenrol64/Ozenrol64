@@ -15,7 +15,7 @@ Je suis un passionné de programmation et de science en général. J'ai des comp
 ### Intro
 I am a programation and science passionated man. I have skills in front and back-end.
 ### Langages
-- TypeScript (front et node.js)
+- TypeScript (front and node.js)
 - Java (currently learning with gradle in the goal of create a minecraft mod (working for a big project...))
 - Python
 - HTML 5
