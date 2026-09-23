@@ -23,5 +23,3 @@ I am a programation and open-source passsionated.
 - HTML 5
 - CSS 3
 - MySQL
-
-![Used langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozenrol64&layout=compact&theme=dark "Most used langages")
