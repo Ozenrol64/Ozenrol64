@@ -7,6 +7,7 @@ Je suis un passionné de programmation et d'open source.
 - TypeScript (front et node.js)
 - Java
 - Python
+- C#
 - HTML 5
 - CSS 3
 - MySQL
@@ -18,6 +19,7 @@ I am a programation and open-source passsionated.
 - TypeScript (front and node.js)
 - Java
 - Python
+- C#
 - HTML 5
 - CSS 3
 - MySQL
